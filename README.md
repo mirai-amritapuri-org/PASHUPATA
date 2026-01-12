@@ -1,7 +1,9 @@
-# Robotics Stack
+# Robotics Stack (PASHUPATA)
 
-This repository contains core robotics software and system
-integration components used across MIRAI projects.
+This repository contains embedded software and low-level
+control logic for MIRAI robotic platforms.
 
-It serves as a foundation for bringing together perception,
-autonomy, hardware interfaces, and system-level coordination.
+It includes firmware for microcontrollers, motor control,
+PID loops, sensor acquisition, and communication bridges
+between hardware and ROS2-based systems.
+
